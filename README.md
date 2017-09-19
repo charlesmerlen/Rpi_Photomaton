@@ -1,2 +1,2 @@
-# Rpi_Photomaton
-Photomaton script in Python for Raspberry Pi
+# RPi-Photobooth
+DIY Photobooth using a Raspberry Pi
