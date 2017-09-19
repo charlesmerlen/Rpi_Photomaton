@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+# Modif GitHub CMN avec Elliott
 
-#import RPi.GPIO as GPIO
 from PIL import Image
 import subprocess
 from time import gmtime, strftime, sleep
